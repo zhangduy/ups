@@ -199,21 +199,17 @@ button:hover {
 }
 .btn.btn-secand {
   color: #dc4747;
-  margin-left: 10px;
+  margin-left: 50px;
+  font-size: 16px;
 }
 
 .btn.btn-thir {
-  padding-left: 400px;
-  color: #dc4747;
-}
-.btn-secand:hover {
+  padding-left: 600px;
   color: #dc4747;
   font-size: 18px;
+  font-weight: 700;
 }
-.btn-thir:hover {
-  color: #dc4747;
-  font-size: 18px;
-}
+
 .box-conten {
   height: 674px;
   width: 100%;
